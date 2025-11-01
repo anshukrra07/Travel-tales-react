@@ -1,0 +1,44 @@
+/* Login Button Styling */
+#login-btn {
+    padding: 10px 20px;
+    background: var(--main-color); /* Use the main accent color */
+    color: var(--bg-color); /* Use the background color for text */
+    border: 2px solid var(--main-color); /* Add a border */
+    border-radius: 30px; /* Rounded corners */
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 20px; /* Add some spacing */
+}
+
+#login-btn:hover {
+    background: transparent; /* Transparent background on hover */
+    color: var(--main-color); /* Change text color on hover */
+    border: 2px solid var(--main-color); /* Keep the border */
+    transform: translateY(-2px); /* Add a slight lift effect */
+}
+
+
+
+/* User Icon */
+#user-icon {
+    width: 40px;
+    height: 40px;
+    background-color: var(--main-color); /* Use the main accent color */
+    color: var(--bg-color); /* Use the background color for text */
+    border-radius: 50%; /* Circular shape */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 18px;
+    transition: all 0.3s ease;
+    margin-left: 20px;
+}
+
+#user-icon:hover {
+    background-color: var(--text-color); /* Change background on hover */
+    color: var(--main-color); /* Change icon color on hover */
+}
+
