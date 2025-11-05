@@ -191,6 +191,7 @@ section {
     line-height: 1.2;
     text-transform: uppercase;
     color: var(--text-color);
+    background: transparent !important;
 }
 
 .home-text p {
