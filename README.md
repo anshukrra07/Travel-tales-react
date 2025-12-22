@@ -1,6 +1,6 @@
 # Travel Tales - React App
 
-public/images/Screenshot 2025-12-22 at 4.47.33 PM.png
+![alt text](<public/images/Screenshot 2025-12-22 at 4.47.33 PM.png>)
 
 website link- https://travel-tales-react.vercel.app
 
